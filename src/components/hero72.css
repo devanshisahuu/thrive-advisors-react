@@ -1,0 +1,38 @@
+.hero72-max-width {
+  display: flex;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+}
+.hero72-content {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  max-width: 1000px;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+.hero72-text {
+  text-align: center;
+}
+.hero72-text1 {
+  text-align: center;
+}
+.hero72-root-class-name {
+  background-color: #6aa36f;
+}
+.hero72-root-class-name1 {
+  background-color: #6aa36f;
+}
+.hero72-root-class-name3 {
+  background-color: #363c50;
+}
+.hero72-root-class-name4 {
+  background-color: #363c50;
+}
+.hero72-root-class-name5 {
+  background-color: #363c50;
+}
+.hero72-root-class-name6 {
+  background-color: #363c50;
+}

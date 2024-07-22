@@ -1,0 +1,87 @@
+.faq1-faq7 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.faq1-max-width {
+  gap: var(--dl-space-space-fiveunits);
+  height: 474px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.faq1-list-item1 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq1-list-item2 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq1-list-item3 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq1-list-item4 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq1-list-item5 {
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.faq1-text03 {
+  font-style: normal;
+  font-weight: 600;
+}
+.faq1-text04 {
+  font-style: normal;
+  font-weight: 600;
+}
+.faq1-text07 {
+  font-style: normal;
+  font-weight: 600;
+}
+.faq1-text09 {
+  font-style: normal;
+  font-weight: 600;
+}
+.faq1-text13 {
+  text-align: center;
+}
+.faq1-text14 {
+  font-style: normal;
+  font-weight: 600;
+}
+.faq1-text15 {
+  font-style: normal;
+  font-weight: 600;
+}
+.faq1-text16 {
+  text-align: center;
+}
+@media(max-width: 991px) {
+  .faq1-max-width {
+    gap: var(--dl-space-space-oneandhalfunits);
+  }
+}
+@media(max-width: 767px) {
+  .faq1-list {
+    gap: var(--dl-space-space-twounits);
+  }
+  .faq1-text13 {
+    text-align: left;
+  }
+}

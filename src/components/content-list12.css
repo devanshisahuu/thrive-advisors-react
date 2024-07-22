@@ -1,0 +1,30 @@
+.content-list12-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.content-list12-max-width {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-size-size-maxwidth);
+  align-items: center;
+  flex-direction: column;
+}
+.content-list12-content {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.content-list12-ul {
+  align-items: flex-start;
+}
+.content-list12-heading1 {
+  align-self: center;
+  text-align: center;
+}
+.content-list12-content1 {
+  align-self: center;
+  text-align: center;
+}

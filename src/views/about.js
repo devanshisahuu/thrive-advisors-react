@@ -33,6 +33,7 @@ const About = (props) => {
         content7="Our vision is to be the leading provider of offshore accounting services, recognized for our excellence in quality, innovation, and client satisfaction. We aspire to transform the way businesses manage their financial operations by offering unparalleled expertise and personalized solutions. By fostering long-term partnerships and continually evolving to meet the dynamic needs of the global market, we strive to be the trusted advisor that businesses turn to for all their accounting and financial management needs."
         heading1="Our Mission"
         heading7="Our Vision"
+        style={{ fontFamily: 'Open Sans, sans-serif' }}
       ></ContentList22>
       <ContactForm2
         email="gaurav.saha@thriveadvisors.in"

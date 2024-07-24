@@ -64,7 +64,7 @@ const OilAndGas = (props) => {
       ></Features47>
       <ContactForm2
         email="gaurav.saha@thriveadvisors.in"
-        phone="UK: +44 74369 43214; IN: +91 9620 770990"
+        phone=": +91 9620 770990"
       ></ContactForm2>
       <Footer41
         link1="Services"

@@ -64,7 +64,7 @@ const Taxation = (props) => {
       ></Features45>
       <ContactForm2
         email="gaurav.saha@thriveadvisors.in"
-        phone="UK: +44 74369 43214; IN: +91 9620 770990"
+        phone="UIN: +91 9620 770990"
       ></ContactForm2>
       <Footer41
         link1="Services"

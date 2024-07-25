@@ -6,7 +6,9 @@
   align-items: center;
   flex-direction: column;
   font-family: 'Open Sans', sans-serif;
+  letter-spacing: 0.05em; /* Adjust this value as needed */
 }
+
 .content-list22-max-width {
   width: 100%;
   display: flex;
@@ -14,30 +16,46 @@
   align-items: center;
   flex-direction: column;
 }
+
 .content-list22-content {
   align-self: stretch;
   align-items: flex-start;
+  letter-spacing: 0.05em; /* Apply here if needed */
 }
+
 .content-list22-li {
   align-items: flex-start;
+  letter-spacing: 0.05em; /* Apply here if needed */
 }
+
 .content-list22-heading1 {
   align-self: flex-start;
+  letter-spacing: 0.05em; /* Apply here if needed */
 }
+
 .content-list22-content1 {
   align-self: flex-start;
   margin-bottom: var(--dl-space-space-halfunit);
+  letter-spacing: 0.05em; /* Apply here if needed */
 }
+
 .content-list22-content1 {
   align-self: stretch;
   align-items: flex-start;
+  letter-spacing: 0.05em; /* Apply here if needed */
 }
+
 .content-list22-li1 {
   align-items: flex-start;
+  letter-spacing: 0.05em; /* Apply here if needed */
 }
+
 .content-list22-heading7 {
   align-self: flex-start;
+  letter-spacing: 0.05em; /* Apply here if needed */
 }
+
 .content-list22-content7 {
   margin-bottom: var(--dl-space-space-halfunit);
+  letter-spacing: 0.05em; /* Apply here if needed */
 }
